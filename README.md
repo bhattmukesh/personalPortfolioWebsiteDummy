@@ -2,6 +2,7 @@
 A responsive, modern, and customizable personal portfolio website built using Flutter Web. Ideal for developers, designers, and freelancers to showcase their work, skills, and contact information.
 
 ✨ Features
+
 📱 Responsive Design – Optimized for desktop, tablet, and mobile views
 
 🧑‍💼 About Me Section – Brief bio, education, and experience
