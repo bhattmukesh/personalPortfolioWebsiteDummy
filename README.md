@@ -1,4 +1,4 @@
-# portfolio_flutter_web
+# Flutter Web - Portfolio Dummy
 
 A new Flutter project.
 
